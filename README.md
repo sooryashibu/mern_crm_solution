@@ -103,9 +103,9 @@ Now, the API will be available at **http://localhost:4001** and the React app at
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Video
 
-> (Optional: add some screenshots of your frontend UI here)
+added video inside document-video folder
 
 ---
 
